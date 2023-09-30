@@ -1,0 +1,3 @@
+/home/ybwowen/Desktop/source/Homework1/armor/build/CMakeFiles/armor.dir
+/home/ybwowen/Desktop/source/Homework1/armor/build/CMakeFiles/edit_cache.dir
+/home/ybwowen/Desktop/source/Homework1/armor/build/CMakeFiles/rebuild_cache.dir

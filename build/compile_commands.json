@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ybwowen/Desktop/source/Homework1/armor/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -std=gnu++11 -o CMakeFiles/armor.dir/main.cpp.o -c /home/ybwowen/Desktop/source/Homework1/armor/main.cpp",
+  "file": "/home/ybwowen/Desktop/source/Homework1/armor/main.cpp"
+}
+]
